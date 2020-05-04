@@ -1,0 +1,6 @@
+gateway.ip = 192.168.1.6
+
+login.url.path = /users/login
+
+token.expire.time= 600000
+token.secret= "asdfghjkl1234567890"
